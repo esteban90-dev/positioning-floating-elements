@@ -72,7 +72,7 @@ a:visited {
   text-decoration: none;
 }
 
-.cover-image {
+.figure-image {
   width: 100%;
   height: auto;
 }
@@ -81,10 +81,10 @@ a:visited {
  margin-bottom: 25px;
 }
 
-figcaption {
+.text-light {
   color: rgb(77, 77, 77);
 }
 
-.caption-author {
+.text-small {
   font-size: 14px;
 }
