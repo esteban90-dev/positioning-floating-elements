@@ -2,7 +2,7 @@ body {
   font-family: nyt-imperial,georgia,'times new roman',times,serif;
 }
 
-.nav {
+.header-nav {
   position: fixed;
   top: 0;
   left: 0;
@@ -56,7 +56,7 @@ article > header, article > section {
   width: 1000px;
 }
 
-h1 {
+.title {
   font-size: 2.4rem;
   font-style: italic;
   padding: 30px 0px;
@@ -85,6 +85,6 @@ figcaption {
   color: rgb(77, 77, 77);
 }
 
-figcaption > span {
+.caption-author {
   font-size: 14px;
 }
