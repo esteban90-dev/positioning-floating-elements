@@ -1,0 +1,39 @@
+body {
+  font-family: nyt-imperial,georgia,'times new roman',times,serif;
+}
+
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: solid 1px;
+  border-color: lightgray;
+  padding: 10px 20px;
+  box-shadow: 0 0 8px lightgray;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+i {
+  margin-right: 25px;
+}
+
+.header-btn {
+  background-color: #567b95;
+  color: white;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 8px 5px;
+}
