@@ -13,6 +13,10 @@ i {
   margin-right: 25px;
 }
 
+iframe {
+  width: 100%;
+}
+
 
 /* --------------------- LAYOUT --------------------- */
 
@@ -107,6 +111,10 @@ a:visited {
 
 .text-small {
   font-size: 14px;
+}
+
+.text-medium {
+  font-size: 16px;
 }
 
 .px-0 {
