@@ -236,6 +236,11 @@ a:visited {
   padding-bottom: 20px;
 }
 
+.mx-0 {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
 .mx-1 {
   margin-left: 10px;
   margin-right: 10px;
