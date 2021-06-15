@@ -4,15 +4,14 @@ body {
   font-family: nyt-imperial,georgia,'times new roman',times,serif;
 }
 
+h1 {
+  font-size: 2.4rem;
+}
+
 i {
   margin-right: 25px;
 }
 
-.title {
-  padding: 30px 0px;
-  border-bottom: 1px solid;
-  border-color: lightgray;
-}
 
 /* --------------------- LAYOUT --------------------- */
 
@@ -25,7 +24,6 @@ i {
   justify-content: space-between;
   align-items: center;
 }
-
 
 .wrapper {
   width: 1400px;
@@ -111,10 +109,6 @@ a:visited {
 
 .text-small {
   font-size: 14px;
-}
-
-.text-large {
-  font-size: 2.4rem;
 }
 
 .px-0 {
