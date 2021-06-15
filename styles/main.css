@@ -17,7 +17,13 @@ iframe {
   width: 100%;
 }
 
+a {
+  color: inherit;
+}
 
+a:visited {
+  text-decoration: none;
+}
 
 
 /* --------------------- LAYOUT --------------------- */
@@ -163,14 +169,6 @@ iframe {
   font-weight: 700;
 }
 
-a {
-  color: black;
-}
-
-a:visited {
-  text-decoration: none;
-}
-
 .figure-image {
   width: 100%;
   height: auto;
@@ -203,6 +201,10 @@ a:visited {
 
 .text-light {
   color: rgb(77, 77, 77);
+}
+
+.text-black {
+  color: black;
 }
 
 .text-italic {
