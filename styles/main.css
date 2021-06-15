@@ -126,3 +126,8 @@ a:visited {
   margin-bottom: 30px;
 }
 
+.underline {
+  text-decoration: underline;
+  text-decoration-color: rgb(170, 170, 170);
+}
+
