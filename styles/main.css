@@ -84,9 +84,6 @@ a:visited {
 .border-bottom {
   border-bottom: solid 1px;
   padding: 10px 20px;
-}
-
-.border-light {
   border-color: lightgray;
 }
 
